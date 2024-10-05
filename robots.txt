@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://maqohupahifi.pages.dev/sitemap.xml
